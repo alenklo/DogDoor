@@ -1,0 +1,7 @@
+{
+  "name": "DogDoor AI Controller",
+  "description": "A smart dashboard to monitor your Raspberry Pi dog detection system, adjust triggers, and analyze behavior using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
